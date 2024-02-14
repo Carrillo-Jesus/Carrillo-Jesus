@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carrillo-jesus&show_icons=true&locale=en&layout=compact" alt="carrillo-jesus" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carrillo-jesus&show_icons=true&locale=en" alt="carrillo-jesus" /></p>
+<!--(url)<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carrillo-jesus&show_icons=true&locale=en" alt="carrillo-jesus" /></p>-->
 
 <!--
 **Carrillo-Jesus/Carrillo-Jesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
