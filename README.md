@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jesus Carrillo</h1>
 <h3 align="center">I am a systems engineer and web app developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carrillo-jesus&label=Profile%20views&color=0e75b6&style=flat" alt="carrillo-jesus" /> </p>
-
-- 🌱 I’m currently learning **English, Spring Boot, Python, Nodejs (Express))**
+- 🌱 I’m currently learning **New technologies**
 
 - 👨‍💻 All of my projects are available at [https://jesuscarrillo.netlify.app/](https://jesuscarrillo.netlify.app/)
 
