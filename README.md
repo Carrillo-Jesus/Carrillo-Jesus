@@ -1,5 +1,4 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Jesus Carrillo</h1>
 <h3 align="center">I am a systems engineer and web app developer</h3>
 
 - 🌱 I’m currently learning **New technologies**
