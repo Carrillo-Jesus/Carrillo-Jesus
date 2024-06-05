@@ -1,4 +1,3 @@
-### Hi there 👋
 <h3 align="center">I am a systems engineer and web app developer</h3>
 
 - 🌱 I’m currently learning **New technologies**
