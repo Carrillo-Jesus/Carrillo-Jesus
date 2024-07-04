@@ -8,7 +8,7 @@
 
 - ✍️ docker commands: [https://comandos-docker.netlify.app/](https://comandos-docker.netlify.app/)
 
-- 🪙 Gestión de facturas: [Sistema de gestión de facturas](https://kagvebi.sao.dom.my.id/login). Inicia sesión con, [admin@admin.com], utiliza la contraseña: [password]
+- 🪙 Gestión de facturas: [Sistema de gestión de facturas](https://kagvebi.sao.dom.my.id/login). Inicia sesión con, admin@admin.com, utiliza la contraseña: password
 
 
 <h3 align="left">Languages and Tools:</h3>
