@@ -1,7 +1,5 @@
 <h3 align="center">I am a systems engineer and web app developer</h3>
 
-- 🌱 I’m currently learning **New technologies**
-
 - 👨‍💻 All of my projects are available at [https://jesuscarrillo.netlify.app/](https://jesuscarrillo.netlify.app/)
 
 - 💬 Ask me about **react, vue, laravel, php, mySql, Node**
